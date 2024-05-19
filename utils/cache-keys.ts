@@ -1,1 +1,1 @@
-export const PLASMIC_AUTH_DATA_KEY = "plasmic-auth-data";
+export const PLASMIC_AUTH_DATA_KEY = "SDOdd7zXtfbwO5s9PPyEmvra6Dy0dQ8i6Lnei8zw3QaIa3UnUeRRe1rnPZJRMlAYfzOLOFxkKxrYudsaNicw";
